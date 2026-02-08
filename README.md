@@ -145,15 +145,6 @@ A full PDF version of the report is available in the `/reports` folder.
 
 ## 📂 Repository Structure
 
-
----
-
-## 🚀 How to Use This Project
-
-1. Download the `.pbix` file from the `powerbi` folder
-2. Open it using **Power BI Desktop**
-3. Use slicers and filters to explore insights interactively
-
 ---
 
 ## 📌 Conclusion
